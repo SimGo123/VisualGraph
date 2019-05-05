@@ -12,11 +12,11 @@ You can also save the file as a .graph-file, a file-extension which I created, a
 If you click "Execute Dijekstra" it will show you how long it takes to every other linked vertex.
 # How does the program work?
 It consists of the following classes:
-Form1: Standard form with event-handlers
-Insert: Insert the vertices and edges into Dijekstra
-Dijekstra: Execute the Dijekstra-algorithm
-Vertex: Just a vertex with a name
-EdgeDialog: Insert edges
-ShowAdjacency: Show the adjacency matrix
-Results: Display the results of the Dijekstra-algorithm
-GraphInterpreter: Read and write .graph-Files
+* Form1: Standard form with event-handlers
+* Insert: Insert the vertices and edges into Dijekstra
+* Dijekstra: Execute the Dijekstra-algorithm
+* Vertex: Just a vertex with a name
+* EdgeDialog: Insert edges
+* ShowAdjacency: Show the adjacency matrix
+* Results: Display the results of the Dijekstra-algorithm
+* GraphInterpreter: Read and write .graph-Files
